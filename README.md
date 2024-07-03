@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hasith Malshan</h1>
 
 <h3 align="center">Software Engineering Undergraduate | Aspiring Full Stack Developer | Passionate Learner</h3>
-![animatedImage](https://github.com/hasith-malshan/hasith-malshan/assets/90042981/c339058f-5b60-450b-a340-5c31e7f2dbee)
-
+<img align="right"
+  src="https://raw.githubusercontent.com/hasith-malshan/hasith-malshan/main/animatedImage.gif" width="400px" height="300px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasith-malshan&label=Profile%20views&color=0e75b6&style=flat" alt="hasith-malshan" /> </p>
 
